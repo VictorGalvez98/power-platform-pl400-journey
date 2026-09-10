@@ -1,0 +1,17 @@
+# Experiments
+
+Technical experiments used to investigate how Power Platform features, tools or development techniques work.
+
+Experiments are useful for testing assumptions and understanding behaviour before applying a solution to a larger project.
+
+##  Experiment Structure
+
+Where appropriate, experiments should document:
+
+- Objective
+- Initial assumption
+- Setup
+- Test
+- Result
+- Conclusion
+- Lessons learned
